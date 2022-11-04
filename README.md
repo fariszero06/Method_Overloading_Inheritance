@@ -91,7 +91,7 @@ public class DemoPembelian {
 ```
 </p>
 
-<b> Langkah selanjutnya, kita isikan programnya di file "Pembelian.java". Berikut codingannya: </b></p>
+<b> 4. Langkah selanjutnya, kita isikan programnya di file "Pembelian.java". Berikut codingannya: </b></p>
 
 ```java
 
@@ -216,4 +216,14 @@ class PembelianBin extends Pembelian {
 }
 
 ```
+</p>
+
+<b> 5. Setelah programnya diisi semua, langkah selanjunya kita RUN programnya di file "Pembelian.java". Setelah di RUN programnya maka akan keluar output seperti ini: </b> </p>
+
+![Output](screenshot/output1.png)</p>
+
+<b> Disini kita akan mencoba inputan "Overloading". Kalian cukup input angka "1" di outputnya, Maka hasilnya seperti ini: </b> </p>
+
+![Output2](screenshot/output2.png)</p>
+
 
