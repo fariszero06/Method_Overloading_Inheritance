@@ -226,4 +226,8 @@ class PembelianBin extends Pembelian {
 
 ![Output2](screenshot/output2.png)</p>
 
+<b> 6. Setelah kita menginputkan "Overloading", selanjutnya kita akan mencoba menginputkan "Inheritance". Sama seperti tadi kalian cukup input angka "2" di outputnya, maka hasilnya akan seperti ini: </b> </p>
+
+![Output3](screenshot/output3.png) </p>
+
 
